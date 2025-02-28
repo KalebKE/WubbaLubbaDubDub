@@ -1,11 +1,16 @@
 # WubbaLubbaDubDub – The Ultimate Rick and Morty Multiverse Explorer!  
 
-<img src="./images/rick_and_morty.svg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<p align="center">
+    <img src="./images/rick_and_morty.svg">
+</p>
 
 **Hey Morty, get over here! We got an app, Morty! An app that lets you dive into the infinite insanity of the Rick and Morty multiverse!**  
 It’s called **WubbaLubbaDubDub**, and it’s like having an interdimensional portal gun—but, you know, for *browsing characters* instead of making bad life choices.  
 
-<img src="./images/rick_and_morty.gif" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+
+<p align="center">
+    <img src="./images/rick_and_morty.gif">
+</p>
 
 ---
 
